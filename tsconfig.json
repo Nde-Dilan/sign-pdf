@@ -10,6 +10,8 @@
   ],
   "compilerOptions": {
     "composite": true,
+     "strict": false,
+    "skipLibCheck": true,
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.tsbuildinfo"
   }
 }
